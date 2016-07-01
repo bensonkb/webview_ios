@@ -1,1 +1,5 @@
 http://conecode.com/news/2011/05/ios-tutorial-creating-a-web-view-uiwebview/
+http://www.human-element.com/ios-app-development-webview-part-33/
+https://www.youtube.com/watch?v=Taiq09uWREc
+
+http://www.macbreaker.com/2015/01/virtualbox-yosemite-zone.html
